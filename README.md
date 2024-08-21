@@ -8,4 +8,7 @@ This repository contains the files required to download images from Google drive
 3. [Features](#features)
 
 ## Installation
+First, clone the repository to the local machine.
+```bash
+git clone https://github.com/justintyz/Image-Processing.git
 
