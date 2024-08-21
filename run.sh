@@ -18,6 +18,10 @@ rm -f .DS_Store
 # Move back to the original directory
 cd ..
 
+# Install Python dependencies
+echo "Installing Python dependencies..."
+pip install -r requirements.txt
+
 # Run the Python script
 echo "Processing images..."
 python3 process_images.py
